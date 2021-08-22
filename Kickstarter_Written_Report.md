@@ -9,12 +9,12 @@ The purpose of this project is to gain insights into the best time of year and k
 ### Analysis of Outcomes Based on Launch Date
 Upon examination of the data for "theater" for all the years available (2009-2017), it is apparent that most successful campaigns are launched in June. The data for failed campaigns hovers between 31% and 38% across the year aside from October and December which have 43% and 47% rates of failed campaigns, respectively. Canceled theater campaigns range from <1% up to 7%, with the highest number occurring in January.
 
-![[Outcomes by Launch Date]](/Users/rachelkrasner/Desktop/UCB_Data_Analysis/Challenge 1 Kickstarter/Resources/Theater_Outcomes_vs_Launch.png)
+![[Outcomes by Launch Date]](https://github.com/Shelka4444/test2/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The data for outcomes based on goals for "plays" is more nuanced than in the previous section. There is a higher rate of success rate for campaigns with a goal of less than $5,000 and also from $35,000 to $45,000, with overall success rates from 67% to 76%, respectively. However, the number of successful campaigns is far higher for the less than $5,000 category (529 plays) vs $35,000 to $45,000 (6 plays). The failure rate is a reflection of the success rate as evidenced in the graph presented below. Aside from goals in the range of $35,000 to $45,000, the overall trend of failed projects increases with the increasing goal amount. There were no canceled plays according to this data set.
 
-![[Outcomes based on Goals]](/Users/rachelkrasner/Desktop/UCB_Data_Analysis/Challenge 1 Kickstarter/Resources/Outcomes_vs_Goals.png)
+![[Outcomes based on Goals]](https://github.com/Shelka4444/test2/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 There were no challenges with this particular dataset. The data presented was clean and easy to manipulate. However, for future reference, it is important to keep track of which filters are "on" in order to be sure that the data set being referenced is indeed the compilation being analyzed; else results will possilby be skewed and/or completely inaccurate. Likewise, double check which cells are being referenced in formulas, especially if one formula is copied across an entire column or row, to prevent future errors.
